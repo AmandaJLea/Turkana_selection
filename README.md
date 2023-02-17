@@ -6,4 +6,4 @@ AJ Lea, IV Caldas, KM Garske, J Echwa, M Gurven, C Handley, J Kahumbu, Kamau, P 
 
 https://www.biorxiv.org/content/10.1101/2023.01.17.524066v1
 
-The supplementary methods link each script to a given analyses. If you have any questions, please email amandalea7180@gmail.com
+The supplementary methods link each script to a given analysis. If you have any questions, please email amandalea7180@gmail.com
